@@ -2,8 +2,9 @@
 
 This will be your project for the second quarter and will comprise 30% of your grade.
 
-Due Date: October 29, 2017
-By 23:59PM October 29, 2017, your site should be viewable on http://yourgithubusername.github.io/website/index.html
+Due Date: September 29, 2017
+
+By 23:59PM September 29, 2017, your site should be viewable on http://yourgithubusername.github.io/website/index.html
 
 Please treat this as mini-web project, as if you are building an actual web site and the class instructor is your client. To make things simpler, you are free to use your own content for this project. In an actual web project, the client will be dictating the content that will go into the web site.
 
