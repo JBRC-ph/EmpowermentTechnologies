@@ -230,6 +230,15 @@ function convert() {
 
 ### Homework
 
+_Upload your work to a project in your Github account named 'homework4' before 10:00 pm September 24, 2017._
+
 Create a page that accepts lat/long values of a location and displays a Google Maps vicinity map of the given location.
 
-https://www.w3schools.com/graphics/google_maps_intro.asp
+![mockup](https://github.com/JBRC-ph/EmpowermentTechnologies/raw/master/images/map-homework-mockup.png)
+
+For hints on how to do this, refer to this example: https://www.w3schools.com/graphics/google_maps_intro.asp
+
+You will need a Google Maps API key. Get a key from https://developers.google.com/maps/documentation/javascript/get-api-key
+, or use `AIzaSyCQJEIwiQK4u72wg6urK9CD4BwjqpAjscs`
+
+If you want to run this on your web page, you will need to get your own key.
