@@ -1,7 +1,3 @@
-JBRC Empowerment Technologies Class 2017-2018
-2nd Quarter Take Home Quiz 1
-Please collect your answers and leave them with Ms. Kitty in the office by the end of day, Thursday, September 28
-
 #### 1. Which JavaScript property do you use to change the current content of an HTML element?
 
 a) innerHTML
