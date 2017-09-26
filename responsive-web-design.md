@@ -41,7 +41,7 @@ section.hero img {
 
 ### Add styles based on the screen size using media queries
 
-Example: we want to hide the two `<img class="optional-pic"> images when the screen size is less than 500 pixels.
+Example: we want to hide the two `<img class="optional-pic">` images when the screen size is less than 500 pixels.
 
 Add this to the CSS:
 
