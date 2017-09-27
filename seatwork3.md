@@ -242,3 +242,6 @@ You will need a Google Maps API key. Get a key from https://developers.google.co
 , or use `AIzaSyCQJEIwiQK4u72wg6urK9CD4BwjqpAjscs`
 
 If you want to run this on your web page, you will need to get your own key.
+
+Here's one solution:
+https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/GoogleMapsJS.html
