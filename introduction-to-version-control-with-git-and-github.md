@@ -37,7 +37,7 @@ If you haven't yet done so, please head over to GitHub.com to create your accoun
 
 ### Project Overview
 
-You have been recently hired as the web developer for ACME Corporation. Your first task is to create a brochure web site - a static web site where they can let potential customers know more about their products. For the initial release, you will a web site with:
+You have been recently hired as the web developer for ACME Corporation. Your first task is to create a brochure web site - a static web site where they can let potential customers know more about their products. For the initial release, you will build a web site with:
 
 - A home page that describes the company and lists their two most popular products: 
   - ACME Giant Rubber Band
