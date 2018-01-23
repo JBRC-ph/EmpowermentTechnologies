@@ -79,6 +79,8 @@ Approximate round trip times in milli-seconds:
 
 ### Exercise
 
+Get your seatmate's IP address and ping it. What was the ping latency?
+
 ping the following web sites:
 
 - www.telkom.co.za (South African telecommunications company)
