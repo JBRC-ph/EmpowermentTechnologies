@@ -236,3 +236,8 @@ Active Connections
   TCP    192.168.1.111:50734    111.221.29.254:https   ESTABLISHED
 ```
 
+### Exercise
+
+Run `netstat` on your machine. You might need to press Ctrl-C to stop netstat. 
+
+From the netstat output, what are the remote machines that you're connecting to? 
