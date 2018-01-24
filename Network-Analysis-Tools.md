@@ -202,7 +202,7 @@ source:         APNIC
 ```
 
 ### Exercise
-For each of the hops in the traceroute output to www.pldt.com.ph, run a whois. Determine the location (country) of each IP address in the hop. Do the same analysis for the traceroute output to www.att.com. Based on your analysis, explain which network connection is faster, and why.
+For each of the hops in the traceroute output to www.singtel.sg, run a whois. Determine the location (country) of each IP address in the hop. Do the same analysis for the traceroute output to www.att.com. Based on your analysis, explain which network connection is faster, and why.
 
 ## netstat
 
