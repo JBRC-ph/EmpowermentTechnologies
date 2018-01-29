@@ -9,8 +9,7 @@ After finishing this seatwork, you should know:
 
 # Write your answers on a bond paper and submit at the end of the class.
 
-This seatwork will take approximately 30-60 minutes. You can test your code on your computer using Visual Studio Code and Edge/Chrome/Firefox. You get +30% credit if you upload your code to Github.com and configure GitHub pages on your project.
-
+This seatwork will take approximately 30-60 minutes. You can test your code on your computer using Visual Studio Code and Edge/Chrome/Firefox.
 # Preliminaries
 
 Create a new GitHub project named "seatwork". Create an HTML file named "index.html". Configure the project to use GitHub Pages.
