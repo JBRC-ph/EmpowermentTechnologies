@@ -1,5 +1,3 @@
-If you prefer to work offline, you can find the PDF version here: https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/homework3.pdf
-
 After finishing this seatwork, you should know:
 
 - how to add an external stylesheet to an HTML file
@@ -9,7 +7,7 @@ After finishing this seatwork, you should know:
 - how to style a specific group (class) of tags (e.g. tr.highlight)
 - how to style a specific tag identified by ID
 
-# _Write down your answers on a bond paper and submit at the end of the class.
+# Write your answers on a bond paper and submit at the end of the class.
 
 This seatwork will take approximately 30-60 minutes. You can test your code on your computer using Visual Studio Code and Edge/Chrome/Firefox. You get +30% credit if you upload your code to Github.com and configure GitHub pages on your project.
 
