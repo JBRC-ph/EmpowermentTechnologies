@@ -7,7 +7,7 @@ At the end of this exercise, you should learn:
   
 ### Step 0. Plan ahead.
 
-You will spend the last 5 minutes of the class writing your reflection about this activity. Plan to finish coding at 7:55 AM.
+Plan to finish coding at 7:55 AM.
 
 ### Step 1. Fork the boilerplate project 
 
@@ -70,7 +70,7 @@ On this step you will implement this layout:
 
 ![3-column-layout](https://github.com/JBRC-ph/EmpowermentTechnologies/blob/master/images/Combination.png)
 
-Work on this as a homework. Please write the code for exercise3.html and style.css on a piece of bond paper and submit next week, September 12.
+Work on this as a homework and submit next week.
 
 ### Step 7. Upload to Github.
 
@@ -79,8 +79,6 @@ If you worked locally, upload your work to Github. You can view your work in htt
 - https://yourusername.github.io/css-seatwork-2/exercise1.html
 - https://yourusername.github.io/css-seatwork-2/exercise2.html
 - https://yourusername.github.io/css-seatwork-2/exercise3.html
-
-Write your reflection.
 
 Congratulations, you're done!
 
